@@ -1,13 +1,13 @@
 ---
 home: true
-actionText: Get Started →
+actionText: 🎉 Get Started 🎉
 actionLink: /guide/
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+- title: Readability
+  details: BEM based Utility classes that are super readable for all
+- title: Extendability
+  details: Not hidden behind a bunch of JavaScript, just easy to import SASS
 - title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+  details: No bloat, no predetermined configuration, just vanilla utilities
+footer: MIT Open Source | Maintained by @samuelgoddard
 ---

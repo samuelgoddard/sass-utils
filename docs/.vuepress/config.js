@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'SASS Utils',
-  description: 'Just playing around.. Skr! Skr!',
+  title: '@SASSUtils',
+  description: 'A bunch of agnostic, super easy to implement utilities and tools to make front-end a little bit easier',
   head: [
     ['link', { rel: 'icon', href: `/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -17,13 +17,22 @@ module.exports = {
       { text: 'Guide', link: '/guide/' },
       { text: 'Github', link: 'http://github.com' },
     ],
+    displayAllHeaders: true,
     sidebar: [
       {
         title: 'Getting Started',
         collapsable: false,
         children: [
+          '/guide/',
           '/guide/configuration',
           '/guide/main'
+        ]
+      },
+      {
+        title: 'About',
+        collapsable: false,
+        children: [
+          '/about/'
         ]
       }
     ]
