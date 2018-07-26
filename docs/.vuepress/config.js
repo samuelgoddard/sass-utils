@@ -1,6 +1,6 @@
 module.exports = {
   title: '@SASSUtils',
-  description: 'A bunch of agnostic, super easy to implement utilities and tools to make front-end a little bit easier',
+  description: 'A small but powerful collection of agnostic, super easy to implement utilities and tools to speed up your front-end workflow',
   head: [
     ['link', { rel: 'icon', href: `/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
