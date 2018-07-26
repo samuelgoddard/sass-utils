@@ -1,0 +1,14 @@
+{
+  "name": "sass-utils",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.12.0"
+  }
+}
